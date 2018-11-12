@@ -8,8 +8,8 @@ public class Test {
 		System.out.println("GitHub Change");
 		System.out.println("Eclipse 2nd Change");
 		System.out.println("GitHub 2nd Change");
-		System.out.println("Eclipse 3rd Change");
 		System.out.println("GitHub 3rd Change");
+		System.out.println("Eclipse 3rd Change");
 	}
 
 }
