@@ -9,6 +9,8 @@ public class Test {
 		System.out.println("Eclipse 2nd Change");
 		System.out.println("GitHub 2nd Change");
 		System.out.println("Eclipse 3rd Change");
+		
+		System.out.println("Git 4th Change");
 	}
 
 }
