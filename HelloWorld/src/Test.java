@@ -11,7 +11,7 @@ public class Test {
 		System.out.println("Eclipse 3rd Change");
 		
 		System.out.println("Git 4th Change");
-		System.out.println("Eclipse 4th Change");
+		System.out.println("Testing Change after merge");
 	}
 
 }
